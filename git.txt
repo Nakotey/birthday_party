@@ -1,0 +1,15 @@
+1.  git branch
+2.  git branch -D moma
+2.  git branch -D whitney
+3.  git branch unordered-list
+3.  git checkout unordered-list
+5.  git add index.html
+6.  git commit -m "replaced first p element with ul element"
+7.  git checkout master
+7.  git merge unordered-list
+8.  git branch big-heading
+9.  git checkout big-heading
+10. git add index.html
+11. git commit -m "changed h2 element to h1 with inline styling"
+12. git checkout master
+12. git merge big-heading
